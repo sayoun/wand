@@ -40,11 +40,8 @@ setup(
     description='Ctypes-based simple MagickWand API binding for Python',
     long_description=readme(),
     license='MIT License',
-    author='Hong Minhee',
-    author_email='hongminhee' '@' 'member.fsf.org',
-    maintainer='Hong Minhee',
-    maintainer_email='hongminhee' '@' 'member.fsf.org',
-    url='http://wand-py.org/',
+    author='sayoun',
+    url='https://github.com/sayoun/wandex',
     tests_require=[
         'pytest >= 2.3.0',
         'pytest-xdist >= 1.8',
