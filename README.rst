@@ -1,7 +1,7 @@
-Wandex
+wandex
 ======
 
-Wandex is a fork of Wand_ project, with added MagickWand API
+wandex is a fork of Wand_ project, with added MagickWand API
 methods, like blur, sharpen and resample.
 
 Beware that this code is not tested, so use it at your own risks.
