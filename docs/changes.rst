@@ -7,7 +7,7 @@ Wand Changelog
 Version 0.4.5
 -------------
 
-To be released.
+Forked from main Wand project, released on April 25, 2018.
 
 
 Version 0.4.4
