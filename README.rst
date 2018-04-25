@@ -10,7 +10,7 @@ You can install the package from PyPI_ by using ``pip``:
 
 .. code-block:: console
 
-   $ pip install Wandex
+   $ pip install wandex
 
 .. _Wand: http://wand-py.org/
 .. _PyPI: https://pypi.python.org/pypi/Wand

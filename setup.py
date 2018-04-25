@@ -33,7 +33,7 @@ else:
 
 
 setup(
-    name='Wand',
+    name='wandex',
     packages=['wand'],
     data_files=[('', ['README.rst'])],
     version=VERSION,
